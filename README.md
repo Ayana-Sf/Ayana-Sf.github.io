@@ -1,5 +1,14 @@
 # Ayana-Sf.github.io
 
-Hello GSU this is super cool!
+Hi my bame us 
 
 ## Header 2
+
+## Experience 
+
+Apple
+Georgia Aquarium
+Amazon 
+Kroger
+
+# Code Snippets 
